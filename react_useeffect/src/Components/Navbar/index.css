@@ -1,0 +1,13 @@
+nav {
+  width: 100%;
+  padding: 20px 0;
+  background-color: beige;
+}
+.nav-inner {
+  width: 50%;
+  margin: auto;
+}
+ul {
+  display: flex;
+  justify-content: space-between;
+}

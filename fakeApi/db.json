@@ -1,0 +1,53 @@
+{
+    "products":[
+        {
+            
+        "id":1, 
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxaVRjp9pB5dI2pdANtX80tdg4zLXz05Ewuw&usqp=CAU",
+        "name":"Iphone",
+        "price": 2500,
+        "comment": "perfect"
+        },
+        {
+            
+        "id":2, 
+        "image":"https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2Ftc3VuZyUyMHBob25lfGVufDB8fDB8fHww",
+        "name":"Samsung",
+        "price": 1500,
+        "comment": "Perfect"
+        },
+        {
+            
+        "id":3, 
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfnNxCYiKITbjFc5MAnBWWPtthk7h4ynJcdw&usqp=CAU",
+        "name":"Xiaomi",
+        "price": 500,
+        "comment": "perfect"
+        },
+        {
+            
+        "id":4, 
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2B9Y1sISZc6NKxn58qPoHV-z7Yx4s-zW8SQ&usqp=CAU",
+        "name":"Sony",
+        "price": 200,
+        "comment": "perfect"
+        },
+        {
+            
+        "id":5, 
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiosM4x0QZkg6prQAr1TnTXzOY9XX5plKBlg&usqp=CAU",
+        "name":"Nokia",
+        "price": 2000,
+        "comment": "perfect"
+        },
+        {
+            
+        "id":6, 
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh_OqQxu3X4caM0TdRg1Rp7ETmPog96N7BiA&usqp=CAU",
+        "name":"Honor",
+        "price": 2500,
+        "comment": "perfect"
+        }
+
+    ]
+}

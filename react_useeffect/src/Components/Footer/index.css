@@ -1,0 +1,9 @@
+footer{
+    width: 100%;
+    padding: 40px 0;
+    background-color: aqua;
+}
+.footer-inner{
+    width: 60%;
+    margin: auto;
+}
